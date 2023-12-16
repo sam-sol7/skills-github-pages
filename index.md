@@ -1,6 +1,5 @@
-# First Page
-## Welcome!
 ---
 title: Welcome to my blog
 ---
-
+# First Page
+## Welcome!
